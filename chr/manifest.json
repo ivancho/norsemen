@@ -1,14 +1,14 @@
 {
-  "name": "NorseSub",
+  "name": "Gorsemen",
   "version": "1.0",
-  "description": "English subs",
+  "description": "Toggle English subs on NRK TV for Vikingane",
 
   "browser_action": {
     "default_icon": {
       "128": "icons/on.png",
       "48": "icons/on48.png"
     },
-    "default_title": "On"
+    "default_title": "English"
   },
   "permissions": ["webRequest", "webRequestBlocking", "storage",
                   "https://undertekst.nrk.no/*", "https://tv.nrk.no/*" ],
