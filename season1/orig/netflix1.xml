@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" tts:textAlign="center" xml:id="defaultStyle"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" tts:textAlign="center" xml:id="defaultStyle_1"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" xml:id="region.after"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="587600000t" end="618400000t" region="region.after" style="defaultStyle" xml:id="subtitle0">Listen up, folks!<br/>New guys, can I have your ...</p>
+<p begin="619200000t" end="647600000t" region="region.after" style="defaultStyle" xml:id="subtitle1">Before you say anything,<br/>let me alert you to the fact</p>
+<p begin="648400000t" end="690400000t" region="region.after" style="defaultStyle" xml:id="subtitle2">that we haven't been served water<br/>for over 12 hours. That's ridiculous.</p>
+<p begin="691200000t" end="726400000t" region="region.after" style="defaultStyle" xml:id="subtitle3">You'll get water afterwards.<br/>First some practical information.</p>
+<p begin="727200000t" end="737200000t" region="region.after" style="defaultStyle" xml:id="subtitle4">Thank you.</p>
+<p begin="738000000t" end="780400000t" region="region.after" style="defaultStyle" xml:id="subtitle5">We'll be arriving home shortly.<br/>That will be a new experience for you.</p>
+<p begin="781200000t" end="807200000t" region="region.after" style="defaultStyle" xml:id="subtitle6">None of you have ever<br/>been to Norway before.</p>
+<p begin="811200000t" end="826000000t" region="region.after" style="defaultStyle" xml:id="subtitle7">You have?</p>
+<p begin="826800000t" end="848400000t" region="region.after" style="defaultStyle" xml:id="subtitle8">No, I haven't been here.</p>
+<p begin="849200000t" end="882400000t" region="region.after" style="defaultStyle" xml:id="subtitle9">But I have relatives up here,<br/>so I know the language.</p>
+<p begin="883200000t" end="922800000t" region="region.after" style="defaultStyle" xml:id="subtitle10">That's lucky.<br/>So we understand each other, then.</p>
+<p begin="923600000t" end="962000000t" region="region.after" style="defaultStyle" xml:id="subtitle11">Yes, I happen to have an extremely<br/>good ear for languages.</p>
+<p begin="962800000t" end="1002400000t" region="region.after" style="defaultStyle" xml:id="subtitle12">-Like top class. World class.<br/>-That's amazing.</p>
+<p begin="1130400000t" end="1174000000t" region="region.after" style="defaultStyle" xml:id="subtitle13">Well, it's time for the <span style="defaultStyle_1">ættestup</span>.<br/>Anyone want to go first?</p>
+<p begin="1193600000t" end="1234400000t" region="region.after" style="defaultStyle" xml:id="subtitle14">Bjørn, you're the oldest.<br/>Maybe you should take the first jump.</p>
+<p begin="1241600000t" end="1282800000t" region="region.after" style="defaultStyle" xml:id="subtitle15">Well, if someone else wants to jump,<br/>it's OK for me.</p>
+<p begin="1283600000t" end="1301600000t" region="region.after" style="defaultStyle" xml:id="subtitle16">Anyone else have the urge?</p>
+<p begin="1307599999t" end="1336000000t" region="region.after" style="defaultStyle" xml:id="subtitle17">-No, no.<br/>-No, it's fine. Go ahead.</p>
+<p begin="1336800000t" end="1352800000t" region="region.after" style="defaultStyle" xml:id="subtitle18">OK, fine.</p>
+<p begin="1353600000t" end="1385200000t" region="region.after" style="defaultStyle" xml:id="subtitle19">If no one wants to jump, I can go.</p>
+<p begin="1386000000t" end="1416400000t" region="region.after" style="defaultStyle" xml:id="subtitle20">It's a matter of honor, isn't it?</p>
+<p begin="1417200000t" end="1446400000t" region="region.after" style="defaultStyle" xml:id="subtitle21">The <span style="defaultStyle_1">ættestup </span>is<br/>the most honorable thing you can do.</p>
+<p begin="1447200000t" end="1471200000t" region="region.after" style="defaultStyle" xml:id="subtitle22">Honor is really important, Bjørn.</p>
+<p begin="1472000000t" end="1511200000t" region="region.after" style="defaultStyle" xml:id="subtitle23">Could you move a bit back there,<br/>give Bjørn some space?</p>
+<p begin="1512000000t" end="1530800000t" region="region.after" style="defaultStyle" xml:id="subtitle24">See you on the other side.</p>
+<p begin="1531600000t" end="1549600000t" region="region.after" style="defaultStyle" xml:id="subtitle25">See you.</p>
+<p begin="1550400000t" end="1590000000t" region="region.after" style="defaultStyle" xml:id="subtitle26">To Valhalla!</p>
+<p begin="1599600000t" end="1619200000t" region="region.after" style="defaultStyle" xml:id="subtitle27">[thud]</p>
+<p begin="1675200000t" end="1691200000t" region="region.after" style="defaultStyle" xml:id="subtitle28">Wow.</p>
+<p begin="1692000000t" end="1725200000t" region="region.after" style="defaultStyle" xml:id="subtitle29">Well, anyway, you can expect<br/>to work hard up here.</p>
+<p begin="1726000000t" end="1769200000t" region="region.after" style="defaultStyle" xml:id="subtitle30">But you'll have a chance to learn some<br/>new things and have some fun too.</p>
+<p begin="1770000000t" end="1802800000t" region="region.after" style="defaultStyle" xml:id="subtitle31">And I can almost guarantee<br/>that you'll make some new friends.</p>
+<p begin="1803600000t" end="1813600000t" region="region.after" style="defaultStyle" xml:id="subtitle32">Excuse me?</p>
+<p begin="1814400000t" end="1839200000t" region="region.after" style="defaultStyle" xml:id="subtitle33">-Yes, question?<br/>-What's the pay like? Is it good?</p>
+<p begin="1840000000t" end="1850400000t" region="region.after" style="defaultStyle" xml:id="subtitle34">[laughter]</p>
+<p begin="1851200000t" end="1878000000t" region="region.after" style="defaultStyle" xml:id="subtitle35">-It's not paid.<br/>-We won't get paid?</p>
+<p begin="1878800000t" end="1924400000t" region="region.after" style="defaultStyle" xml:id="subtitle36">Not to complain, but I think the flow<br/>of information here on this boat</p>
+<p begin="1925200000t" end="1942400000t" region="region.after" style="defaultStyle" xml:id="subtitle37">is extremely arbitrary.</p>
+<p begin="1943200000t" end="1973200000t" region="region.after" style="defaultStyle" xml:id="subtitle38">And that's totally uncalled for,<br/>when we're so crammed together</p>
+<p begin="1974000000t" end="1984000000t" region="region.after" style="defaultStyle" xml:id="subtitle39">in such a small craft.</p>
+<p begin="1984800000t" end="2020000000t" region="region.after" style="defaultStyle" xml:id="subtitle40">I didn't know until yesterday<br/>that we were even going to Norway.</p>
+<p begin="2040400000t" end="2074400000t" region="region.after" style="defaultStyle" xml:id="subtitle41">So you think the information flow<br/>is under par?</p>
+<p begin="2075200000t" end="2087200000t" region="region.after" style="defaultStyle" xml:id="subtitle42">Yes.</p>
+<p begin="2088000000t" end="2123200000t" region="region.after" style="defaultStyle" xml:id="subtitle43">-So here's some information for you.<br/>-Finally!</p>
+<p begin="2132400000t" end="2161600000t" region="region.after" style="defaultStyle" xml:id="subtitle44">Ow, ow!</p>
+<p begin="2203600000t" end="2240400000t" region="region.after" style="defaultStyle" xml:id="subtitle45">Did you see that?<br/>Did everyone see that?</p>
+<p begin="2261200000t" end="2294400000t" region="region.after" style="defaultStyle" xml:id="subtitle46">There's something<br/>seriously wrong with my nose!</p>
+<p begin="2311200000t" end="2348800000t" region="region.after" style="defaultStyle" xml:id="subtitle47">-Was that a bit too much?<br/>-No, you're the chieftain.</p>
+<p begin="2349600000t" end="2388800000t" region="region.after" style="defaultStyle" xml:id="subtitle48">Aren't you supposed to be a little<br/>like that when you're in charge?</p>
+<p begin="2389600000t" end="2439600000t" region="region.after" style="defaultStyle" xml:id="subtitle49">But it's not really me, that<br/>fear-based leadership style stuff.</p>
+<p begin="2448000000t" end="2465200000t" region="region.after" style="defaultStyle" xml:id="subtitle50">It doesn't feel right.</p>
+<p begin="2468800000t" end="2486000000t" region="region.after" style="defaultStyle" xml:id="subtitle51">Can you be my witness?</p>
+<p begin="2506800000t" end="2535600000t" region="region.after" style="defaultStyle" xml:id="subtitle52">Oddvar, maybe you want to go next?</p>
+<p begin="2541200000t" end="2584400000t" region="region.after" style="defaultStyle" xml:id="subtitle53">I'm thinking, what's the worst thing<br/>that could happen -</p>
+<p begin="2585199999t" end="2609599999t" region="region.after" style="defaultStyle" xml:id="subtitle54">- if I don't do the <span style="defaultStyle_1">ættestup</span>?</p>
+<p begin="2616800000t" end="2654800000t" region="region.after" style="defaultStyle" xml:id="subtitle55">I mean,<br/>what's worse than being crushed?</p>
+<p begin="2655600000t" end="2692800000t" region="region.after" style="defaultStyle" xml:id="subtitle56">I don't know. I was just ordered<br/>to take you up here. I mean,</p>
+<p begin="2693600000t" end="2727600000t" region="region.after" style="defaultStyle" xml:id="subtitle57">you're supposed to do the jump<br/>and spare your families</p>
+<p begin="2728400000t" end="2758800000t" region="region.after" style="defaultStyle" xml:id="subtitle58">the burden that is supporting<br/>you  in your old age.</p>
+<p begin="2759600000t" end="2791200000t" region="region.after" style="defaultStyle" xml:id="subtitle59">Yeah, but I'm only 47. It's...</p>
+<p begin="2796400000t" end="2820800000t" region="region.after" style="defaultStyle" xml:id="subtitle60">I mean, it's not that old.</p>
+<p begin="2821600000t" end="2847600000t" region="region.after" style="defaultStyle" xml:id="subtitle61">I'm just going to skip<br/>the whole thing.</p>
+<p begin="2848400000t" end="2867200000t" region="region.after" style="defaultStyle" xml:id="subtitle62">--OK?<br/>-Yeah.</p>
+<p begin="2868000000t" end="2910800000t" region="region.after" style="defaultStyle" xml:id="subtitle63">I'm not going to jump either.<br/>This is not my kind of thing.</p>
+<p begin="2911600000t" end="2938800000t" region="region.after" style="defaultStyle" xml:id="subtitle64">Anyone else want to jump?</p>
+<p begin="2957200000t" end="2995600000t" region="region.after" style="defaultStyle" xml:id="subtitle65">-Come on, fellas. I mean ...<br/>-It's just not very tempting.</p>
+<p begin="3016800000t" end="3033200000t" region="region.after" style="defaultStyle" xml:id="subtitle66">OK. I mean, I'm just a slave.</p>
+<p begin="3034000000t" end="3070800000t" region="region.after" style="defaultStyle" xml:id="subtitle67">I can't make you do anything<br/>you don't want to do. But, uh...</p>
+<p begin="3078000000t" end="3111600000t" region="region.after" style="defaultStyle" xml:id="subtitle68">Could you just please stay away<br/>from Norheim?</p>
+<p begin="3112400000t" end="3145200000t" region="region.after" style="defaultStyle" xml:id="subtitle69">So people don't understand<br/>that you didn't do the <span style="defaultStyle_1">ættestup</span>?</p>
+<p begin="3146000000t" end="3173200000t" region="region.after" style="defaultStyle" xml:id="subtitle70">Of course, no problem.<br/>You'll never see us again.</p>
+<p begin="3174000000t" end="3191600000t" region="region.after" style="defaultStyle" xml:id="subtitle71">Great. Thank you.<br/>Wonderful.</p>
+<p begin="3192400000t" end="3209600000t" region="region.after" style="defaultStyle" xml:id="subtitle72">OK, bye!</p>
+<p begin="3259600000t" end="3286800000t" region="region.after" style="defaultStyle" xml:id="subtitle73">Can't exactly say I'm looking<br/>forward to coming home now.</p>
+<p begin="3287600000t" end="3302800000t" region="region.after" style="defaultStyle" xml:id="subtitle74">No?</p>
+<p begin="3308400000t" end="3357200000t" region="region.after" style="defaultStyle" xml:id="subtitle75">My focus has always been on pillaging<br/>and ravaging and things like that.</p>
+<p begin="3358000000t" end="3412000000t" region="region.after" style="defaultStyle" xml:id="subtitle76">When all the other guys have settled down<br/>with wives, kids, farms and stuff.</p>
+<p begin="3416400000t" end="3440400000t" region="region.after" style="defaultStyle" xml:id="subtitle77">I'm feeling kind of alone here.</p>
+<p begin="3441200000t" end="3471600000t" region="region.after" style="defaultStyle" xml:id="subtitle78">Yeah, but isn't that OK, too?</p>
+<p begin="3472400000t" end="3502800000t" region="region.after" style="defaultStyle" xml:id="subtitle79">Do as you please.<br/>Do whatever you want.</p>
+<p begin="3503600000t" end="3536800000t" region="region.after" style="defaultStyle" xml:id="subtitle80">Without having to plan it<br/>three full moons ahead.</p>
+<p begin="3550000000t" end="3597200000t" region="region.after" style="defaultStyle" xml:id="subtitle81">I live in a tent. The only clothes<br/>I have are the ones I'm wearing.</p>
+<p begin="3598000000t" end="3618800000t" region="region.after" style="defaultStyle" xml:id="subtitle82">I'm starting to feel<br/>a little pathetic here</p>
+<p begin="3619600000t" end="3644000000t" region="region.after" style="defaultStyle" xml:id="subtitle83">We have to do something about that.</p>
+<p begin="3644800000t" end="3671600000t" region="region.after" style="defaultStyle" xml:id="subtitle84">A good man like you shouldn't<br/>be alone if you don't want to.</p>
+<p begin="3672400000t" end="3696800000t" region="region.after" style="defaultStyle" xml:id="subtitle85">You have so much to offer!</p>
+<p begin="3697600000t" end="3716800000t" region="region.after" style="defaultStyle" xml:id="subtitle86">No, not that much.</p>
+<p begin="3723200000t" end="3757200000t" region="region.after" style="defaultStyle" xml:id="subtitle87">-I think I have a plan for that.<br/>-Really?</p>
+<p begin="3765600000t" end="3789200000t" region="region.after" style="defaultStyle" xml:id="subtitle88">A plan so crazy it might just work.</p>
+<p begin="3793200000t" end="3810400000t" region="region.after" style="defaultStyle" xml:id="subtitle89">Wow!</p>
+<p begin="3817600000t" end="3830800000t" region="region.after" style="defaultStyle" xml:id="subtitle90">[chuckles]</p>
+<p begin="4411600000t" end="4429200000t" region="region.after" style="defaultStyle" xml:id="subtitle91">Oh, it's you.</p>
+<p begin="4436800000t" end="4451600000t" region="region.after" style="defaultStyle" xml:id="subtitle92">How did it go?</p>
+<p begin="4452400000t" end="4484800000t" region="region.after" style="defaultStyle" xml:id="subtitle93">You'll never see those guys again,<br/>so I would say it went great.</p>
+<p begin="4485600000t" end="4497600000t" region="region.after" style="defaultStyle" xml:id="subtitle94">Good, good.</p>
+<p begin="4498400000t" end="4508800000t" region="region.after" style="defaultStyle" xml:id="subtitle95">Orm?</p>
+<p begin="4513600000t" end="4529200000t" region="region.after" style="defaultStyle" xml:id="subtitle96">What is this?</p>
+<p begin="4530000000t" end="4546000000t" region="region.after" style="defaultStyle" xml:id="subtitle97">-Hm?<br/>-So the rumors are true?</p>
+<p begin="4546800000t" end="4574800000t" region="region.after" style="defaultStyle" xml:id="subtitle98">That you sent the old people<br/>in the village to their death?</p>
+<p begin="4578800000t" end="4597600000t" region="region.after" style="defaultStyle" xml:id="subtitle99">Well, they took the <span style="defaultStyle_1">ættestup</span>.</p>
+<p begin="4598400000t" end="4627200000t" region="region.after" style="defaultStyle" xml:id="subtitle100">You finally got the chance<br/>to run this village, Orm.</p>
+<p begin="4634000000t" end="4669200000t" region="region.after" style="defaultStyle" xml:id="subtitle101">And the result is people are forced<br/>to throw themselves to their death</p>
+<p begin="4670000000t" end="4687600000t" region="region.after" style="defaultStyle" xml:id="subtitle102">because we don't have any food?</p>
+<p begin="4693600000t" end="4727200000t" region="region.after" style="defaultStyle" xml:id="subtitle103">What kind of leadership is that?<br/>Are you pleased with yourself?</p>
+<p begin="4728000000t" end="4755600000t" region="region.after" style="defaultStyle" xml:id="subtitle104">I think things are starting<br/>to fall into place.</p>
+<p begin="4756400000t" end="4794800000t" region="region.after" style="defaultStyle" xml:id="subtitle105">-Well I don't.<br/>-Well, then we have to agree to disagree.</p>
+<p begin="4798400000t" end="4831600000t" region="region.after" style="defaultStyle" xml:id="subtitle106">Which is something<br/>I've decided to start saying.</p>
+<p begin="4832400000t" end="4856000000t" region="region.after" style="defaultStyle" xml:id="subtitle107">Chieftain Olav and his men should<br/>have been home</p>
+<p begin="4856800000t" end="4872800000t" region="region.after" style="defaultStyle" xml:id="subtitle108">from their raid<br/>over a month ago.</p>
+<p begin="4876400000t" end="4917600000t" region="region.after" style="defaultStyle" xml:id="subtitle109">It's very strange that you haven't<br/>done anything to get them home.</p>
+<p begin="4918400000t" end="4946400000t" region="region.after" style="defaultStyle" xml:id="subtitle110">No, but all that stuff is up<br/>to Odin and the gods to decide.</p>
+<p begin="4947200000t" end="4961600000t" region="region.after" style="defaultStyle" xml:id="subtitle111">I mean, what am<br/>I supposed to do?</p>
+<p begin="4973200000t" end="5002000000t" region="region.after" style="defaultStyle" xml:id="subtitle112">You could at least have<br/>sacrificed some slaves.</p>
+<p begin="5002800000t" end="5022800000t" region="region.after" style="defaultStyle" xml:id="subtitle113">Tried to be a little resourceful.</p>
+<p begin="5023600000t" end="5055600000t" region="region.after" style="defaultStyle" xml:id="subtitle114">Sacrifice? No, no, no,<br/>I don't think that's a good idea.</p>
+<p begin="5056400000t" end="5077600000t" region="region.after" style="defaultStyle" xml:id="subtitle115">All that screaming</p>
+<p begin="5078400000t" end="5093600000t" region="region.after" style="defaultStyle" xml:id="subtitle116">and commotion...</p>
+<p begin="5094400000t" end="5127999999t" region="region.after" style="defaultStyle" xml:id="subtitle117">Your wife is also on that ship.<br/>You must be sick with worry.</p>
+<p begin="5128800000t" end="5165599999t" region="region.after" style="defaultStyle" xml:id="subtitle118">No, yes, I am very sick with worry.<br/>For Frøya.</p>
+<p begin="5166400000t" end="5196799999t" region="region.after" style="defaultStyle" xml:id="subtitle119">You know, it would be incredibly<br/>unfortunate if they didn't return home.</p>
+<p begin="5197600000t" end="5230000000t" region="region.after" style="defaultStyle" xml:id="subtitle120">I'd be left with permanent<br/>responsibility here and everything.</p>
+<p begin="5230800000t" end="5257600000t" region="region.after" style="defaultStyle" xml:id="subtitle121">-Then you'd become chieftain.<br/>-Yes.</p>
+<p begin="5258400000t" end="5287600000t" region="region.after" style="defaultStyle" xml:id="subtitle122">-Isn't that your big dream?<br/>-No, no.</p>
+<p begin="5288400000t" end="5320800000t" region="region.after" style="defaultStyle" xml:id="subtitle123">I'm heir to the throne,<br/>but it's not like</p>
+<p begin="5321600000t" end="5348800000t" region="region.after" style="defaultStyle" xml:id="subtitle124">it's my dream.<br/>No, I wouldn't say that.</p>
+<p begin="5349600000t" end="5380000000t" region="region.after" style="defaultStyle" xml:id="subtitle125">Okay, then we'll sacrifice<br/>some slaves. OK?</p>
+<p begin="5380800000t" end="5390800000t" region="region.after" style="defaultStyle" xml:id="subtitle126">No, I don't think so.</p>
+<p begin="5391600000t" end="5412000000t" region="region.after" style="defaultStyle" xml:id="subtitle127">That's pretty much what<br/>people are calling for right now.</p>
+<p begin="5413200000t" end="5425600000t" region="region.after" style="defaultStyle" xml:id="subtitle128">Are they?</p>
+<p begin="5426400000t" end="5449600000t" region="region.after" style="defaultStyle" xml:id="subtitle129">We're doing it, Orm.</p>
+<p begin="5450400000t" end="5487200000t" region="region.after" style="defaultStyle" xml:id="subtitle130">Yes, well then I will make<br/>an executive decision, and say:</p>
+<p begin="5488000000t" end="5525200000t" region="region.after" style="defaultStyle" xml:id="subtitle131">-That's what we'll do.<br/>-Great. Come on.</p>
+<p begin="5581200000t" end="5618000000t" region="region.after" style="defaultStyle" xml:id="subtitle132"><span style="defaultStyle_1">Odin, receive our second sacrifice! </span></p>
+<p begin="5618800000t" end="5635600000t" region="region.after" style="defaultStyle" xml:id="subtitle133">[chop]</p>
+<p begin="5769200000t" end="5784400000t" region="region.after" style="defaultStyle" xml:id="subtitle134">[groans]</p>
+<p begin="5793200000t" end="5826000000t" region="region.after" style="defaultStyle" xml:id="subtitle135">Odin, receive our third sacrifice!</p>
+<p begin="5827600000t" end="5851600000t" region="region.after" style="defaultStyle" xml:id="subtitle136">Bring our men home!</p>
+<p begin="5852400000t" end="5867600000t" region="region.after" style="defaultStyle" xml:id="subtitle137">-Wait, wait just a second.<br/>-Yes?</p>
+<p begin="5868400000t" end="5889600000t" region="region.after" style="defaultStyle" xml:id="subtitle138">Not to cock up your plans or anything but,</p>
+<p begin="5890400000t" end="5932400000t" region="region.after" style="defaultStyle" xml:id="subtitle139">are you 100% certain that<br/>it's necessary to sacrifice me?</p>
+<p begin="5933200000t" end="5972400000t" region="region.after" style="defaultStyle" xml:id="subtitle140">Yes. I mean, ritual sacrifice<br/>isn't a perfect science, but</p>
+<p begin="5973200000t" end="5994800000t" region="region.after" style="defaultStyle" xml:id="subtitle141">I feel really confident<br/>about this one.</p>
+<p begin="5996000000t" end="6008800000t" region="region.after" style="defaultStyle" xml:id="subtitle142">Okay, okay.</p>
+<p begin="6019600000t" end="6063600000t" region="region.after" style="defaultStyle" xml:id="subtitle143">I just ... you've sacrificed<br/>two slaves already.</p>
+<p begin="6064400000t" end="6095600000t" region="region.after" style="defaultStyle" xml:id="subtitle144">You're not worried the gods are<br/>gonna think that you're trying too hard?</p>
+<p begin="6096400000t" end="6108000000t" region="region.after" style="defaultStyle" xml:id="subtitle145">That it's too much?</p>
+<p begin="6108800000t" end="6138400000t" region="region.after" style="defaultStyle" xml:id="subtitle146">Mm, I really like the way you're thinking.<br/>Don't get me wrong.</p>
+<p begin="6139200000t" end="6176800000t" region="region.after" style="defaultStyle" xml:id="subtitle147">I think it's great that you as a slave<br/>bother getting involved.</p>
+<p begin="6177600000t" end="6198800000t" region="region.after" style="defaultStyle" xml:id="subtitle148">But if you don't mind,<br/>I think we'll just move on.</p>
+<p begin="6199600000t" end="6210400000t" region="region.after" style="defaultStyle" xml:id="subtitle149">-Oh, okay, of course.<br/>-Yes.</p>
+<p begin="6211200000t" end="6252400000t" region="region.after" style="defaultStyle" xml:id="subtitle150">I just thought I'd mention it.<br/>No point in regretting it later. I mean...</p>
+<p begin="6253200000t" end="6292000000t" region="region.after" style="defaultStyle" xml:id="subtitle151">Sacrifice isn't exactly reversible, but...<br/>Okay.</p>
+<p begin="6293200000t" end="6303200000t" region="region.after" style="defaultStyle" xml:id="subtitle152">[laughs nervously]</p>
+<p begin="6304000000t" end="6316800000t" region="region.after" style="defaultStyle" xml:id="subtitle153"><span style="defaultStyle_1">A ship! </span></p>
+<p begin="6323200000t" end="6340400000t" region="region.after" style="defaultStyle" xml:id="subtitle154"><span style="defaultStyle_1">They're coming! </span></p>
+<p begin="6341200000t" end="6352800000t" region="region.after" style="defaultStyle" xml:id="subtitle155">Shhh....</p>
+<p begin="6372400000t" end="6398800000t" region="region.after" style="defaultStyle" xml:id="subtitle156">Thank you, Odin.<br/>Thank you!</p>
+<p begin="6415600000t" end="6429600000t" region="region.after" style="defaultStyle" xml:id="subtitle157">There you go.</p>
+<p begin="6434000000t" end="6476000000t" region="region.after" style="defaultStyle" xml:id="subtitle158">Two sacrifices was enough.<br/>Should make a note of that.</p>
+<p begin="6549600000t" end="6566000000t" region="region.after" style="defaultStyle" xml:id="subtitle159">[laughter and commotion]</p>
+<p begin="6872800000t" end="6890400000t" region="region.after" style="defaultStyle" xml:id="subtitle160">Hey, Frøya!</p>
+<p begin="6905200000t" end="6930000000t" region="region.after" style="defaultStyle" xml:id="subtitle161">You can at least pretend to be happy<br/>to see your husband.</p>
+<p begin="6930800000t" end="6967600000t" region="region.after" style="defaultStyle" xml:id="subtitle162">This is very embarrassing.<br/>Kind of awkward.</p>
+<p begin="6985600000t" end="7019200000t" region="region.after" style="defaultStyle" xml:id="subtitle163">Holy Loki,<br/>it's good to see you, brother!</p>
+<p begin="7020000000t" end="7035200000t" region="region.after" style="defaultStyle" xml:id="subtitle164">Look at you, all tan!</p>
+<p begin="7036000000t" end="7046000000t" region="region.after" style="defaultStyle" xml:id="subtitle165">-Hi, Orm.<br/>-Hi.</p>
+<p begin="7046800000t" end="7084000000t" region="region.after" style="defaultStyle" xml:id="subtitle166">So tell me! Where have you been?<br/>What have you done?</p>
+<p begin="7084800000t" end="7113200000t" region="region.after" style="defaultStyle" xml:id="subtitle167">Any good stories?<br/>Any special moments?</p>
+<p begin="7114000000t" end="7132000000t" region="region.after" style="defaultStyle" xml:id="subtitle168">Lots of special moments.</p>
+<p begin="7132800000t" end="7175200000t" region="region.after" style="defaultStyle" xml:id="subtitle169">It wouldn't be fair to all the other<br/>moments if you should bring up just one.</p>
+<p begin="7176000000t" end="7190400000t" region="region.after" style="defaultStyle" xml:id="subtitle170">Because they were all so awesome.</p>
+<p begin="7191200000t" end="7201200000t" region="region.after" style="defaultStyle" xml:id="subtitle171">Oh, wow.</p>
+<p begin="7202000000t" end="7220400000t" region="region.after" style="defaultStyle" xml:id="subtitle172">From we got there till we left,</p>
+<p begin="7221200000t" end="7258000000t" region="region.after" style="defaultStyle" xml:id="subtitle173">it was just a series of<br/>one sweet moment after another.</p>
+<p begin="7258800000t" end="7302000000t" region="region.after" style="defaultStyle" xml:id="subtitle174">Lots of, you know, internal jokes and...<br/>You wouldn't get it anyway.</p>
+<p begin="7302800000t" end="7326800000t" region="region.after" style="defaultStyle" xml:id="subtitle175">Next time I just have to join you.</p>
+<p begin="7327600000t" end="7346800000t" region="region.after" style="defaultStyle" xml:id="subtitle176">My back was a bit...<br/>But it's much better now.</p>
+<p begin="7347600000t" end="7361200000t" region="region.after" style="defaultStyle" xml:id="subtitle177">-Mm-hmm. Yeah.<br/>-Much better.</p>
+<p begin="7362000000t" end="7387200000t" region="region.after" style="defaultStyle" xml:id="subtitle178">You should be really proud of your wife.</p>
+<p begin="7390800000t" end="7437200000t" region="region.after" style="defaultStyle" xml:id="subtitle179">Frøya dove into that pillaging 100%.</p>
+<p begin="7438000000t" end="7476800000t" region="region.after" style="defaultStyle" xml:id="subtitle180">Even took part<br/>in quite a lot of the raping.</p>
+<p begin="7477600000t" end="7521200000t" region="region.after" style="defaultStyle" xml:id="subtitle181">Frøya forced all kinds of monks<br/>to let her ride them.</p>
+<p begin="7522000000t" end="7550800000t" region="region.after" style="defaultStyle" xml:id="subtitle182">I didn't really expect that.<br/>I was totally blown away</p>
+<p begin="7551600000t" end="7604000000t" region="region.after" style="defaultStyle" xml:id="subtitle183">when I saw her on top of this monk,<br/>moaning and groaning.</p>
+<p begin="7604800000t" end="7618800000t" region="region.after" style="defaultStyle" xml:id="subtitle184">Did you do that, Frøya?</p>
+<p begin="7619600000t" end="7655200000t" region="region.after" style="defaultStyle" xml:id="subtitle185">Of course. I mean, that's what<br/>you do when you pillage.</p>
+<p begin="7656000000t" end="7682000000t" region="region.after" style="defaultStyle" xml:id="subtitle186">That was kind of unnecessary,<br/>wasn't it?</p>
+<p begin="7682800000t" end="7720800000t" region="region.after" style="defaultStyle" xml:id="subtitle187">If it's unnecessary?<br/>Well, yeah, maybe, but ...</p>
+<p begin="7726000000t" end="7767200000t" region="region.after" style="defaultStyle" xml:id="subtitle188">If you joined a raid, you'd understand<br/>how the world works. Yeah.</p>
+<p begin="7801600000t" end="7828000000t" region="region.after" style="defaultStyle" xml:id="subtitle189">Speaking of which,<br/>are you going to the party tonight?</p>
+<p begin="7828800000t" end="7845600000t" region="region.after" style="defaultStyle" xml:id="subtitle190">Yeah, sure, aren't we all?</p>
+<p begin="7846400000t" end="7894800000t" region="region.after" style="defaultStyle" xml:id="subtitle191">How about pounding some down tepid<br/>horns of mead at our place first?</p>
+<p begin="7895600000t" end="7930400000t" region="region.after" style="defaultStyle" xml:id="subtitle192">Well, actually, all of us from the boat</p>
+<p begin="7931200000t" end="7957200000t" region="region.after" style="defaultStyle" xml:id="subtitle193">kind of agreed to get together<br/>before the party.</p>
+<p begin="7958000000t" end="8001200000t" region="region.after" style="defaultStyle" xml:id="subtitle194">Pour out some mead for our<br/>dead comrades, reminisce and stuff.</p>
+<p begin="8002000000t" end="8032400000t" region="region.after" style="defaultStyle" xml:id="subtitle195">Reminisce? You just got<br/>home a few moments ago.</p>
+<p begin="8033200000t" end="8062800000t" region="region.after" style="defaultStyle" xml:id="subtitle196">We're not going to reminisce about<br/>the last moments on the boat,</p>
+<p begin="8063600000t" end="8085600000t" region="region.after" style="defaultStyle" xml:id="subtitle197">we're gonna reminisce<br/>about when we first got there.</p>
+<p begin="8086400000t" end="8100000000t" region="region.after" style="defaultStyle" xml:id="subtitle198">The first monastery we pillaged and stuff.</p>
+<p begin="8100800000t" end="8129200000t" region="region.after" style="defaultStyle" xml:id="subtitle199">I understand, but it couldn't hurt<br/>if I was a fly on the wall, could it?</p>
+<p begin="8130000000t" end="8149600000t" region="region.after" style="defaultStyle" xml:id="subtitle200">You know, I can even bring my own chair.</p>
+<p begin="8150400000t" end="8168800000t" region="region.after" style="defaultStyle" xml:id="subtitle201">because you always say<br/>there aren't enough seats.</p>
+<p begin="8169600000t" end="8188000000t" region="region.after" style="defaultStyle" xml:id="subtitle202">Yeah, yeah, mm.</p>
+<p begin="8188800000t" end="8216000000t" region="region.after" style="defaultStyle" xml:id="subtitle203">-I think It would get very crowded<br/>-Yeah.</p>
+<p begin="8216800000t" end="8245200000t" region="region.after" style="defaultStyle" xml:id="subtitle204">if people start bringing<br/>their own chairs, Orm.</p>
+<p begin="8246000000t" end="8270000000t" region="region.after" style="defaultStyle" xml:id="subtitle205">Yes, yes, no, but I understand.<br/>But I can ...</p>
+<p begin="8270800000t" end="8296800000t" region="region.after" style="defaultStyle" xml:id="subtitle206">I can, I can stand outside.</p>
+<p begin="8297600000t" end="8320800000t" region="region.after" style="defaultStyle" xml:id="subtitle207">You know, and just talk to the guys<br/>who go to the toilet.</p>
+<p begin="8321600000t" end="8339600000t" region="region.after" style="defaultStyle" xml:id="subtitle208">And stuff like that,<br/>that would be OK, wouldn't it?</p>
+<p begin="8340400000t" end="8370400000t" region="region.after" style="defaultStyle" xml:id="subtitle209">I think maybe I heard someone say:</p>
+<p begin="8371200000t" end="8420000000t" region="region.after" style="defaultStyle" xml:id="subtitle210">-"3-2-1, no one else can come."<br/>-Yeah, that was Ragnar.</p>
+<p begin="8420800000t" end="8446000000t" region="region.after" style="defaultStyle" xml:id="subtitle211">That's not runed in stone, is it?</p>
+<p begin="8446800000t" end="8466800000t" region="region.after" style="defaultStyle" xml:id="subtitle212">Stone or not stone,<br/>you have to respect it.</p>
+<p begin="8467600000t" end="8494400000t" region="region.after" style="defaultStyle" xml:id="subtitle213">Or else it doesn't mean anything.</p>
+<p begin="8495200000t" end="8519600000t" region="region.after" style="defaultStyle" xml:id="subtitle214">You know, the whole rhyme<br/>would lose its magic.</p>
+<p begin="8520400000t" end="8543200000t" region="region.after" style="defaultStyle" xml:id="subtitle215">It's going to be something<br/>people just say.</p>
+<p begin="8544400000t" end="8554400000t" region="region.after" style="defaultStyle" xml:id="subtitle216">Oh?</p>
+<p begin="8555200000t" end="8579200000t" region="region.after" style="defaultStyle" xml:id="subtitle217">But, Orm, you know what?</p>
+<p begin="8580000000t" end="8610000000t" region="region.after" style="defaultStyle" xml:id="subtitle218">We meet up in the great<br/>hall afterwards.</p>
+<p begin="8610800000t" end="8626800000t" region="region.after" style="defaultStyle" xml:id="subtitle219">-Yeah.<br/>-That's good. That's really good.</p>
+<p begin="8627600000t" end="8646800000t" region="region.after" style="defaultStyle" xml:id="subtitle220">-Afterwards?<br/>-Yes.</p>
+<p begin="8647600000t" end="8665600000t" region="region.after" style="defaultStyle" xml:id="subtitle221">After...?</p>
+<p begin="8680400000t" end="8697200000t" region="region.after" style="defaultStyle" xml:id="subtitle222">OK...</p>
+<p begin="8708400000t" end="8720400000t" region="region.after" style="defaultStyle" xml:id="subtitle223">OK.</p>
+<p begin="8888000000t" end="8908400000t" region="region.after" style="defaultStyle" xml:id="subtitle224">Hello?<br/>Just one thing.</p>
+<p begin="8909200000t" end="8919200000t" region="region.after" style="defaultStyle" xml:id="subtitle225">Yes?</p>
+<p begin="8920000000t" end="8942400000t" region="region.after" style="defaultStyle" xml:id="subtitle226">I had a cape with me on the ship.</p>
+<p begin="8943200000t" end="8968000000t" region="region.after" style="defaultStyle" xml:id="subtitle227">Er, er, it's more like a cloak, actually.</p>
+<p begin="8968800000t" end="9004400000t" region="region.after" style="defaultStyle" xml:id="subtitle228">Just without the buttons<br/>all the way down. But anyway...</p>
+<p begin="9005200000t" end="9031200000t" region="region.after" style="defaultStyle" xml:id="subtitle229">I gave it to one of your colleagues<br/>who promised to return it.</p>
+<p begin="9032000000t" end="9048800000t" region="region.after" style="defaultStyle" xml:id="subtitle230">When we reached our destination.</p>
+<p begin="9049600000t" end="9099200000t" region="region.after" style="defaultStyle" xml:id="subtitle231">So, I don't know... maybe you<br/>can ask around for me? Or?</p>
+<p begin="9106400000t" end="9132400000t" region="region.after" style="defaultStyle" xml:id="subtitle232">-Nope. Come here.<br/>-No?</p>
+<p begin="9133200000t" end="9157200000t" region="region.after" style="defaultStyle" xml:id="subtitle233">Oh, there he is,<br/>there he is! Hi.</p>
+<p begin="9162800000t" end="9176000000t" region="region.after" style="defaultStyle" xml:id="subtitle234">He's the one.</p>
+<p begin="9176800000t" end="9206400000t" region="region.after" style="defaultStyle" xml:id="subtitle235">I'm the one who lent you my cape.</p>
+<p begin="9207200000t" end="9222000000t" region="region.after" style="defaultStyle" xml:id="subtitle236">That's my cape.</p>
+<p begin="9222800000t" end="9242400000t" region="region.after" style="defaultStyle" xml:id="subtitle237">This is mine.</p>
+<p begin="9243200000t" end="9263600000t" region="region.after" style="defaultStyle" xml:id="subtitle238">-It's yours?<br/>-Yeah.</p>
+<p begin="9278400000t" end="9302400000t" region="region.after" style="defaultStyle" xml:id="subtitle239">Well isn't that quite a coincidence,</p>
+<p begin="9303200000t" end="9330800000t" region="region.after" style="defaultStyle" xml:id="subtitle240">if you and I happen use<br/>the same tailor in Rome?</p>
+<p begin="9331600000t" end="9352400000t" region="region.after" style="defaultStyle" xml:id="subtitle241">And have the same family crest?</p>
+<p begin="9353600000t" end="9378000000t" region="region.after" style="defaultStyle" xml:id="subtitle242">I doubt that quite strongly.</p>
+<p begin="9378800000t" end="9394400000t" region="region.after" style="defaultStyle" xml:id="subtitle243">Well, that is the case.</p>
+<p begin="9395600000t" end="9421600000t" region="region.after" style="defaultStyle" xml:id="subtitle244">Come on, not even you can believe that.</p>
+<p begin="9422400000t" end="9446800000t" region="region.after" style="defaultStyle" xml:id="subtitle245">And you're wearing it all wrong.<br/>It's getting dirty.</p>
+<p begin="9447600000t" end="9460800000t" region="region.after" style="defaultStyle" xml:id="subtitle246">You're wearing it like an amateur.</p>
+<p begin="9461600000t" end="9484400000t" region="region.after" style="defaultStyle" xml:id="subtitle247">-You don't like dirt?<br/>-No. Who does?</p>
+<p begin="9485200000t" end="9496400000t" region="region.after" style="defaultStyle" xml:id="subtitle248">[groans]</p>
+<p begin="9529200000t" end="9541600000t" region="region.after" style="defaultStyle" xml:id="subtitle249">[strained grunt]</p>
+<p begin="9546800000t" end="9568000000t" region="region.after" style="defaultStyle" xml:id="subtitle250">-Open your mouth.<br/>-Excuse me?</p>
+<p begin="9602400000t" end="9629200000t" region="region.after" style="defaultStyle" xml:id="subtitle251">Open your mouth.<br/>Don't bite.</p>
+<p begin="9660000000t" end="9681200000t" region="region.after" style="defaultStyle" xml:id="subtitle252">-Whose cape is it?<br/>-Yours.</p>
+<p begin="9682000000t" end="9698000000t" region="region.after" style="defaultStyle" xml:id="subtitle253">-It's my cape.<br/>-Yes.</p>
+<p begin="9698800000t" end="9712000000t" region="region.after" style="defaultStyle" xml:id="subtitle254">[laughs]</p>
+<p begin="9720800000t" end="9737200000t" region="region.after" style="defaultStyle" xml:id="subtitle255">Fast learner.</p>
+<p begin="9800800000t" end="9822800000t" region="region.after" style="defaultStyle" xml:id="subtitle256">You're not gonna get away with...</p>
+<p begin="9850000000t" end="9870800000t" region="region.after" style="defaultStyle" xml:id="subtitle257">Hey, you! Hi.</p>
+<p begin="9871600000t" end="9883600000t" region="region.after" style="defaultStyle" xml:id="subtitle258">You're new, right?</p>
+<p begin="9899200000t" end="9928800000t" region="region.after" style="defaultStyle" xml:id="subtitle259">We're gonna be strawmates.<br/>Kark is my name.</p>
+<p begin="9929600000t" end="9940800000t" region="region.after" style="defaultStyle" xml:id="subtitle260">I was supposed to be sac...</p>
+<p begin="9942400000t" end="9957600000t" region="region.after" style="defaultStyle" xml:id="subtitle261">[screaming]</p>
+<p begin="10005600000t" end="10028400000t" region="region.after" style="defaultStyle" xml:id="subtitle262">I was supposed to be sacrificed today.</p>
+<p begin="10029200000t" end="10054000000t" region="region.after" style="defaultStyle" xml:id="subtitle263">But I got away, so they gave<br/>me a branding instead,</p>
+<p begin="10054800000t" end="10072000000t" region="region.after" style="defaultStyle" xml:id="subtitle264">just so I wouldn't feel too lucky.</p>
+<p begin="10072800000t" end="10090000000t" region="region.after" style="defaultStyle" xml:id="subtitle265">OK?</p>
+<p begin="10090800000t" end="10118000000t" region="region.after" style="defaultStyle" xml:id="subtitle266">-Isn't it amazing?<br/>-No.</p>
+<p begin="10124800000t" end="10156800000t" region="region.after" style="defaultStyle" xml:id="subtitle267">I'm gonna show you where<br/>we're gonna sleep. We're done, right?</p>
+<p begin="10157600000t" end="10175200000t" region="region.after" style="defaultStyle" xml:id="subtitle268">Yeah, thanks, thanks.</p>
+<p begin="10219600000t" end="10238800000t" region="region.after" style="defaultStyle" xml:id="subtitle269">[chickens clucking]</p>
+<p begin="10239600000t" end="10259200000t" region="region.after" style="defaultStyle" xml:id="subtitle270">Yeah, this is our spot.</p>
+<p begin="10260000000t" end="10285200000t" region="region.after" style="defaultStyle" xml:id="subtitle271">Nice and warm among the animals.</p>
+<p begin="10285999999t" end="10308800000t" region="region.after" style="defaultStyle" xml:id="subtitle272">-You're kidding, right?<br/>-No.</p>
+<p begin="10321199999t" end="10357600000t" region="region.after" style="defaultStyle" xml:id="subtitle273">-I'm not sleeping in this pigsty!<br/>-What do you mean? This is sweet.</p>
+<p begin="10358399999t" end="10377600000t" region="region.after" style="defaultStyle" xml:id="subtitle274">Sweet?</p>
+<p begin="10378399999t" end="10394800000t" region="region.after" style="defaultStyle" xml:id="subtitle275">What...</p>
+<p begin="10395600000t" end="10432400000t" region="region.after" style="defaultStyle" xml:id="subtitle276">What kind of place are those<br/>goddamn inbreds running here?</p>
+<p begin="10468000000t" end="10496400000t" region="region.after" style="defaultStyle" xml:id="subtitle277">Seriously, you're not going<br/>to that pillage reunion, are you?</p>
+<p begin="10497200000t" end="10514400000t" region="region.after" style="defaultStyle" xml:id="subtitle278">Well of course I am.</p>
+<p begin="10515200000t" end="10535200000t" region="region.after" style="defaultStyle" xml:id="subtitle279">Couldn't we take a mead here instead,</p>
+<p begin="10536000000t" end="10551600000t" region="region.after" style="defaultStyle" xml:id="subtitle280">you know, just the two of us,<br/>here, at home?</p>
+<p begin="10552400000t" end="10565600000t" region="region.after" style="defaultStyle" xml:id="subtitle281">Uh, no.</p>
+<p begin="10567200000t" end="10594800000t" region="region.after" style="defaultStyle" xml:id="subtitle282">In Loki's name,<br/>what's that around your neck?</p>
+<p begin="10595600000t" end="10642400000t" region="region.after" style="defaultStyle" xml:id="subtitle283">Oh, this is a monk's necklace.<br/>It's like a trophy I made.</p>
+<p begin="10650400000t" end="10675600000t" region="region.after" style="defaultStyle" xml:id="subtitle284">Is that ... a cock necklace?</p>
+<p begin="10676400000t" end="10696400000t" region="region.after" style="defaultStyle" xml:id="subtitle285">Mm-hm.<br/>From the monks.</p>
+<p begin="10697200000t" end="10722400000t" region="region.after" style="defaultStyle" xml:id="subtitle286">Are those monks giants?</p>
+<p begin="10723200000t" end="10761600000t" region="region.after" style="defaultStyle" xml:id="subtitle287">These sizes are completely<br/>out of proportion.</p>
+<p begin="10762400000t" end="10787600000t" region="region.after" style="defaultStyle" xml:id="subtitle288">Can you imagine, you know, getting hard</p>
+<p begin="10788400000t" end="10809200000t" region="region.after" style="defaultStyle" xml:id="subtitle289">with a tool like that?<br/>You'd be in trouble.</p>
+<p begin="10810000000t" end="10825200000t" region="region.after" style="defaultStyle" xml:id="subtitle290">Why?</p>
+<p begin="10826000000t" end="10842800000t" region="region.after" style="defaultStyle" xml:id="subtitle291">Because you'd just drop to the floor.</p>
+<p begin="10843600000t" end="10866000000t" region="region.after" style="defaultStyle" xml:id="subtitle292">Your blood would go straight<br/>from your head to your tool.</p>
+<p begin="10866800000t" end="10889600000t" region="region.after" style="defaultStyle" xml:id="subtitle293">You know, you would pass out completely.</p>
+<p begin="10890400000t" end="10908800000t" region="region.after" style="defaultStyle" xml:id="subtitle294">No, usually they don't.</p>
+<p begin="10909600000t" end="10936000000t" region="region.after" style="defaultStyle" xml:id="subtitle295">Actually this is quite a standard size,<br/>I think.</p>
+<p begin="10936800000t" end="10961600000t" region="region.after" style="defaultStyle" xml:id="subtitle296">I have exactly the same tool.</p>
+<p begin="10962400000t" end="10989600000t" region="region.after" style="defaultStyle" xml:id="subtitle297">I think I know what a huge penis is.<br/>Those are abnormal.</p>
+<p begin="10990400000t" end="11012800000t" region="region.after" style="defaultStyle" xml:id="subtitle298">Yes. I'm going to go now.</p>
+<p begin="11013600000t" end="11042800000t" region="region.after" style="defaultStyle" xml:id="subtitle299">I just feel sorry for those people who<br/>have to walk around with dicks like that.</p>
+<p begin="11043600000t" end="11053600000t" region="region.after" style="defaultStyle" xml:id="subtitle300">Yes, I'm going.</p>
+<p begin="11054400000t" end="11077600000t" region="region.after" style="defaultStyle" xml:id="subtitle301">I feel sorry for them.<br/>What a handicap!</p>
+<p begin="11346400000t" end="11369200000t" region="region.after" style="defaultStyle" xml:id="subtitle302">Friends.<br/>Brothers.</p>
+<p begin="11376000000t" end="11392800000t" region="region.after" style="defaultStyle" xml:id="subtitle303">Warriors.</p>
+<p begin="11393600000t" end="11443200000t" region="region.after" style="defaultStyle" xml:id="subtitle304">We're here to celebrate<br/>that Odin guided us safely home!</p>
+<p begin="11444000000t" end="11466800000t" region="region.after" style="defaultStyle" xml:id="subtitle305"><span style="defaultStyle_1">-Skål!</span><br/>-Skål!</p>
+<p begin="11498400000t" end="11524400000t" region="region.after" style="defaultStyle" xml:id="subtitle306">We're also here to celebrate</p>
+<p begin="11525200000t" end="11549200000t" region="region.after" style="defaultStyle" xml:id="subtitle307">that we found a way West.</p>
+<p begin="11550000000t" end="11596400000t" region="region.after" style="defaultStyle" xml:id="subtitle308">To a land that will see to it that we<br/>will never again have a lean year.</p>
+<p begin="11597200000t" end="11631200000t" region="region.after" style="defaultStyle" xml:id="subtitle309">No matter how poorly<br/>the substitute chieftain</p>
+<p begin="11632000000t" end="11662000000t" region="region.after" style="defaultStyle" xml:id="subtitle310">manages the village while I'm away.</p>
+<p begin="11748000000t" end="11770400000t" region="region.after" style="defaultStyle" xml:id="subtitle311">It's time to celebrate!</p>
+<p begin="11771200000t" end="11800000000t" region="region.after" style="defaultStyle" xml:id="subtitle312">Shame on those who don't get drunk!</p>
+<p begin="11928400000t" end="11945200000t" region="region.after" style="defaultStyle" xml:id="subtitle313">Yes?</p>
+<p begin="11950400000t" end="11974800000t" region="region.after" style="defaultStyle" xml:id="subtitle314">-Great party.<br/>-Yeah.</p>
+<p begin="11975600000t" end="11998800000t" region="region.after" style="defaultStyle" xml:id="subtitle315">I think my assicle has fallen asleep.</p>
+<p begin="11999600000t" end="12014000000t" region="region.after" style="defaultStyle" xml:id="subtitle316">[grunts]</p>
+<p begin="12014800000t" end="12047200000t" region="region.after" style="defaultStyle" xml:id="subtitle317">Those benches in there are so, so hard.</p>
+<p begin="12048000000t" end="12071200000t" region="region.after" style="defaultStyle" xml:id="subtitle318">They could at least<br/>throw on a few animal skins.</p>
+<p begin="12072000000t" end="12086400000t" region="region.after" style="defaultStyle" xml:id="subtitle319">What do you mean?</p>
+<p begin="12087200000t" end="12130800000t" region="region.after" style="defaultStyle" xml:id="subtitle320">The assicle falls asleep.<br/>The assicle goes numb. Straight away.</p>
+<p begin="12131600000t" end="12157600000t" region="region.after" style="defaultStyle" xml:id="subtitle321">-Assicle?<br/>-Assicle.</p>
+<p begin="12158400000t" end="12174400000t" region="region.after" style="defaultStyle" xml:id="subtitle322">You don't know what the assicle is?</p>
+<p begin="12175600000t" end="12189200000t" region="region.after" style="defaultStyle" xml:id="subtitle323">-Nope.<br/>-Assicle.</p>
+<p begin="12190000000t" end="12227200000t" region="region.after" style="defaultStyle" xml:id="subtitle324">That little thing that sticks out<br/>between the penis and the hole?</p>
+<p begin="12228000000t" end="12248400000t" region="region.after" style="defaultStyle" xml:id="subtitle325">On the... perineum?</p>
+<p begin="12255200000t" end="12287200000t" region="region.after" style="defaultStyle" xml:id="subtitle326">That little thing that wags<br/>when you're excited?</p>
+<p begin="12288000000t" end="12306400000t" region="region.after" style="defaultStyle" xml:id="subtitle327">What do you call it?</p>
+<p begin="12307200000t" end="12334400000t" region="region.after" style="defaultStyle" xml:id="subtitle328">-I don't know.<br/>-Well, I call it the assicle.</p>
+<p begin="12335200000t" end="12356800000t" region="region.after" style="defaultStyle" xml:id="subtitle329">I don't know if that's the right word, or<br/>you know,</p>
+<p begin="12358000000t" end="12393600000t" region="region.after" style="defaultStyle" xml:id="subtitle330">but I call it that,<br/>I've always called it that.</p>
+<p begin="12394400000t" end="12420000000t" region="region.after" style="defaultStyle" xml:id="subtitle331">So that's how it's gonna stay.<br/>OK, see you in there.</p>
+<p begin="12498400000t" end="12527600000t" region="region.after" style="defaultStyle" xml:id="subtitle332">Of course the horses<br/>didn't see the difference</p>
+<p begin="12528400000t" end="12570000000t" region="region.after" style="defaultStyle" xml:id="subtitle333">between coltsfoot and dandelion.</p>
+<p begin="12570800000t" end="12589200000t" region="region.after" style="defaultStyle" xml:id="subtitle334">[chuckles]</p>
+<p begin="12590000000t" end="12625600000t" region="region.after" style="defaultStyle" xml:id="subtitle335">That was quite... peculiar.</p>
+<p begin="12736000000t" end="12760800000t" region="region.after" style="defaultStyle" xml:id="subtitle336">Olvar. Liv.</p>
+<p begin="12764800000t" end="12795600000t" region="region.after" style="defaultStyle" xml:id="subtitle337">"Milady."<br/>That's how they greet</p>
+<p begin="12796400000t" end="12823200000t" region="region.after" style="defaultStyle" xml:id="subtitle338">beautiful women in the West.</p>
+<p begin="12829200000t" end="12851200000t" region="region.after" style="defaultStyle" xml:id="subtitle339">Wow. Impressive.</p>
+<p begin="12856400000t" end="12888000000t" region="region.after" style="defaultStyle" xml:id="subtitle340">Welcome back from the raid.<br/>I heard you pillaged well.</p>
+<p begin="12888800000t" end="12923600000t" region="region.after" style="defaultStyle" xml:id="subtitle341">Yeah, it was ...<br/>It was really good.</p>
+<p begin="12962800000t" end="13005200000t" region="region.after" style="defaultStyle" xml:id="subtitle342">Was there something in particular<br/>I could help you with?</p>
+<p begin="13006000000t" end="13036800000t" region="region.after" style="defaultStyle" xml:id="subtitle343">Yes! Yes, there is one tiny...</p>
+<p begin="13041600000t" end="13061600000t" region="region.after" style="defaultStyle" xml:id="subtitle344">question.</p>
+<p begin="13062400000t" end="13110000000t" region="region.after" style="defaultStyle" xml:id="subtitle345">-You still have that farm, don't you?<br/>-I do. Biggest one in Norheim.</p>
+<p begin="13110800000t" end="13142400000t" region="region.after" style="defaultStyle" xml:id="subtitle346">And... it's still going very well?</p>
+<p begin="13143200000t" end="13162800000t" region="region.after" style="defaultStyle" xml:id="subtitle347">Oh, it's going good!<br/>[chuckles]</p>
+<p begin="13163600000t" end="13197200000t" region="region.after" style="defaultStyle" xml:id="subtitle348">Yes, so that's what I wanted<br/>to talk to you about.</p>
+<p begin="13198000000t" end="13240800000t" region="region.after" style="defaultStyle" xml:id="subtitle349">Because you know I dig you.<br/>I always have and always will.</p>
+<p begin="13241600000t" end="13275200000t" region="region.after" style="defaultStyle" xml:id="subtitle350">And I really admire you<br/>for what you have accomplished.</p>
+<p begin="13276000000t" end="13303200000t" region="region.after" style="defaultStyle" xml:id="subtitle351">Thank you, Arvid.<br/>That's great.</p>
+<p begin="13310000000t" end="13340800000t" region="region.after" style="defaultStyle" xml:id="subtitle352">-<span style="defaultStyle_1">Skål </span>to Arvid!<br/>-<span style="defaultStyle_1">Skål</span>!</p>
+<p begin="13414800000t" end="13444000000t" region="region.after" style="defaultStyle" xml:id="subtitle353">So I thought I'd challenge you<br/>to a <span style="defaultStyle_1">holmgang</span>.</p>
+<p begin="13460800000t" end="13474000000t" region="region.after" style="defaultStyle" xml:id="subtitle354">What?</p>
+<p begin="13498800000t" end="13514400000t" region="region.after" style="defaultStyle" xml:id="subtitle355"><span style="defaultStyle_1">Holmgang?! </span></p>
+<p begin="13558400000t" end="13608400000t" region="region.after" style="defaultStyle" xml:id="subtitle356">Yes. And then the winner<br/>can take over the loser's</p>
+<p begin="13609200000t" end="13641600000t" region="region.after" style="defaultStyle" xml:id="subtitle357">property and wife and stuff.</p>
+<p begin="13642400000t" end="13657600000t" region="region.after" style="defaultStyle" xml:id="subtitle358">Because that's how the rules are,</p>
+<p begin="13658800000t" end="13680400000t" region="region.after" style="defaultStyle" xml:id="subtitle359">isn't it, Olav, Chieftain Olav?</p>
+<p begin="13681200000t" end="13706800000t" region="region.after" style="defaultStyle" xml:id="subtitle360">That's right.<br/>What you say there is right.</p>
+<p begin="13707600000t" end="13738800000t" region="region.after" style="defaultStyle" xml:id="subtitle361">But you don't own anything, Arvid!</p>
+<p begin="13739600000t" end="13768400000t" region="region.after" style="defaultStyle" xml:id="subtitle362">But that's how the rules are.</p>
+<p begin="13769200000t" end="13804400000t" region="region.after" style="defaultStyle" xml:id="subtitle363">And it would be stupid of me<br/>not to take advantage of it.</p>
+<p begin="13805200000t" end="13837600000t" region="region.after" style="defaultStyle" xml:id="subtitle364">But I built up everything</p>
+<p begin="13838400000t" end="13866800000t" region="region.after" style="defaultStyle" xml:id="subtitle365">with my own hands, from nothing!</p>
+<p begin="13867600000t" end="13900000000t" region="region.after" style="defaultStyle" xml:id="subtitle366">Yeah. And I really<br/>respect you for that.</p>
+<p begin="13900800000t" end="13913200000t" region="region.after" style="defaultStyle" xml:id="subtitle367">But still...</p>
+<p begin="13916800000t" end="13939200000t" region="region.after" style="defaultStyle" xml:id="subtitle368">I, Arvid, hereby</p>
+<p begin="13940000000t" end="13967600000t" region="region.after" style="defaultStyle" xml:id="subtitle369">challenge Olvar to a <span style="defaultStyle_1">holmgang</span>!</p>
+<p begin="14068800000t" end="14110800000t" region="region.after" style="defaultStyle" xml:id="subtitle370">[rooster crows]</p>
+<p begin="14135200000t" end="14150400000t" region="region.after" style="defaultStyle" xml:id="subtitle371">[snoring]</p>
+<p begin="14286400000t" end="14303600000t" region="region.after" style="defaultStyle" xml:id="subtitle372">Olvar?</p>
+<p begin="14378800000t" end="14395600000t" region="region.after" style="defaultStyle" xml:id="subtitle373">Olvar?</p>
+<p begin="14413200000t" end="14430000000t" region="region.after" style="defaultStyle" xml:id="subtitle374"><span style="defaultStyle_1">Olvar? </span></p>
+<p begin="14444800000t" end="14473600000t" region="region.after" style="defaultStyle" xml:id="subtitle375">Olvar, are you sitting here hiding?</p>
+<p begin="14481200000t" end="14511200000t" region="region.after" style="defaultStyle" xml:id="subtitle376">I'm not hiding, I'm just thinking.</p>
+<p begin="14512000000t" end="14531200000t" region="region.after" style="defaultStyle" xml:id="subtitle377">You can just forget about hiding.</p>
+<p begin="14535600000t" end="14570800000t" region="region.after" style="defaultStyle" xml:id="subtitle378">If you don't show up for the <span style="defaultStyle_1">holmgang</span><br/>you'll be deemed a <span style="defaultStyle_1">niding</span>. An outcast.</p>
+<p begin="14571600000t" end="14590000000t" region="region.after" style="defaultStyle" xml:id="subtitle379">You'll bring shame on me, indirectly.</p>
+<p begin="14590800000t" end="14623600000t" region="region.after" style="defaultStyle" xml:id="subtitle380">It's just that Arvid is so big.<br/>I mean...</p>
+<p begin="14624400000t" end="14672000000t" region="region.after" style="defaultStyle" xml:id="subtitle381">He has been trained to be a warrior<br/>ever since he was a baby.</p>
+<p begin="14672800000t" end="14709600000t" region="region.after" style="defaultStyle" xml:id="subtitle382">And he has probably killed<br/>a thousand men.</p>
+<p begin="14713600000t" end="14745200000t" region="region.after" style="defaultStyle" xml:id="subtitle383">I never touched a sword before today.</p>
+<p begin="14746000000t" end="14782400000t" region="region.after" style="defaultStyle" xml:id="subtitle384">Blah, blah.<br/>Don't be so insanely defensive.</p>
+<p begin="14783200000t" end="14822400000t" region="region.after" style="defaultStyle" xml:id="subtitle385">You can beat him. It's all<br/>in the mind. It's 99% attitude.</p>
+<p begin="14845200000t" end="14865600000t" region="region.after" style="defaultStyle" xml:id="subtitle386">-Is it?<br/>-Sure.</p>
+<p begin="14866400000t" end="14890000000t" region="region.after" style="defaultStyle" xml:id="subtitle387">If you raise your game 5%,</p>
+<p begin="14890800000t" end="14926000000t" region="region.after" style="defaultStyle" xml:id="subtitle388">and he lowers his 5%,<br/>most of the job is done.</p>
+<p begin="14941200000t" end="14966000000t" region="region.after" style="defaultStyle" xml:id="subtitle389">Are the margins that</p>
+<p begin="14976800000t" end="14991600000t" region="region.after" style="defaultStyle" xml:id="subtitle390">-small?<br/>-Sure.</p>
+<p begin="14992400000t" end="15038400000t" region="region.after" style="defaultStyle" xml:id="subtitle391">If you also look at the possibility of<br/>thinking a little outside the box,</p>
+<p begin="15039200000t" end="15065200000t" region="region.after" style="defaultStyle" xml:id="subtitle392">anything could happen, right?</p>
+<p begin="15066000000t" end="15093600000t" region="region.after" style="defaultStyle" xml:id="subtitle393">OK. Good luck.<br/>See you there.</p>
+<p begin="15094400000t" end="15118800000t" region="region.after" style="defaultStyle" xml:id="subtitle394">Yeah. But, Liv, we...</p>
+<p begin="15128800000t" end="15140400000t" region="region.after" style="defaultStyle" xml:id="subtitle395">-We go together.</p>
+<p begin="15141200000t" end="15171600000t" region="region.after" style="defaultStyle" xml:id="subtitle396">No, I'm  just going<br/>with some old friends.</p>
+<p begin="15176400000t" end="15200800000t" region="region.after" style="defaultStyle" xml:id="subtitle397">What? What friends?</p>
+<p begin="15201600000t" end="15221600000t" region="region.after" style="defaultStyle" xml:id="subtitle398">"What? Who?"<br/>Some old friends.</p>
+<p begin="15222400000t" end="15248800000t" region="region.after" style="defaultStyle" xml:id="subtitle399">OK.<br/>Should I leave the door open?</p>
+<p begin="15249600000t" end="15269200000t" region="region.after" style="defaultStyle" xml:id="subtitle400">Close it.</p>
+<p begin="15277600000t" end="15294400000t" region="region.after" style="defaultStyle" xml:id="subtitle401">Good luck!</p>
+<p begin="15558800000t" end="15579200000t" region="region.after" style="defaultStyle" xml:id="subtitle402">Olvar.</p>
+<p begin="15580000000t" end="15617600000t" region="region.after" style="defaultStyle" xml:id="subtitle403">There you are.<br/>That was in the nick of time.</p>
+<p begin="15618400000t" end="15651600000t" region="region.after" style="defaultStyle" xml:id="subtitle404">You wish to exchange coins for poison?</p>
+<p begin="15652400000t" end="15706800000t" region="region.after" style="defaultStyle" xml:id="subtitle405">Exactly. I got myself messed up<br/>in a <span style="defaultStyle_1">holmgang </span>over here.</p>
+<p begin="15752400000t" end="15769600000t" region="region.after" style="defaultStyle" xml:id="subtitle406">Give me your sword.</p>
+<p begin="15770400000t" end="15787200000t" region="region.after" style="defaultStyle" xml:id="subtitle407">Yeah.</p>
+<p begin="15794000000t" end="15824800000t" region="region.after" style="defaultStyle" xml:id="subtitle408">Don't send a sword over tip first.</p>
+<p begin="15825600000t" end="15858400000t" region="region.after" style="defaultStyle" xml:id="subtitle409">-Easy child's learning.<br/>-Sorry.</p>
+<p begin="15893200000t" end="15921200000t" region="region.after" style="defaultStyle" xml:id="subtitle410">This is the deadliest poison<br/>you can find.</p>
+<p begin="15922000000t" end="15963600000t" region="region.after" style="defaultStyle" xml:id="subtitle411">One scratch of his skin<br/>and he'll be dead in seconds.</p>
+<p begin="15964400000t" end="15983600000t" region="region.after" style="defaultStyle" xml:id="subtitle412">OK.</p>
+<p begin="15984400000t" end="16001200000t" region="region.after" style="defaultStyle" xml:id="subtitle413">Thank you.</p>
+<p begin="16005600000t" end="16031600000t" region="region.after" style="defaultStyle" xml:id="subtitle414">I will be forever in debt to you.</p>
+<p begin="16036400000t" end="16054000000t" region="region.after" style="defaultStyle" xml:id="subtitle415">But you gave me money, so...</p>
+<p begin="16054800000t" end="16070800000t" region="region.after" style="defaultStyle" xml:id="subtitle416">Yeah.</p>
+<p begin="16071600000t" end="16104800000t" region="region.after" style="defaultStyle" xml:id="subtitle417">It's a figure of speech, isn't it?</p>
+<p begin="16106000000t" end="16130400000t" region="region.after" style="defaultStyle" xml:id="subtitle418">-Yeah, I guess.<br/>-Yeah.</p>
+<p begin="16142400000t" end="16155600000t" region="region.after" style="defaultStyle" xml:id="subtitle419">Bye.</p>
+<p begin="16258000000t" end="16275600000t" region="region.after" style="defaultStyle" xml:id="subtitle420">Odin!</p>
+<p begin="16276400000t" end="16301200000t" region="region.after" style="defaultStyle" xml:id="subtitle421">God of all warriors!</p>
+<p begin="16302000000t" end="16342000000t" region="region.after" style="defaultStyle" xml:id="subtitle422">Today you will receive a new guest</p>
+<p begin="16342800000t" end="16362400000t" region="region.after" style="defaultStyle" xml:id="subtitle423">in Valhalla!</p>
+<p begin="16381200000t" end="16410800000t" region="region.after" style="defaultStyle" xml:id="subtitle424">Can I say something before we begin?</p>
+<p begin="16411600000t" end="16429200000t" region="region.after" style="defaultStyle" xml:id="subtitle425">Yeah, that's fine.</p>
+<p begin="16430000000t" end="16455200000t" region="region.after" style="defaultStyle" xml:id="subtitle426">Olvar will say a few words!</p>
+<p begin="16466400000t" end="16487600000t" region="region.after" style="defaultStyle" xml:id="subtitle427">Many of you,</p>
+<p begin="16488400000t" end="16510800000t" region="region.after" style="defaultStyle" xml:id="subtitle428">perhaps most of you,</p>
+<p begin="16516800000t" end="16547600000t" region="region.after" style="defaultStyle" xml:id="subtitle429">don't believe<br/>I stand a chance here today.</p>
+<p begin="16548400000t" end="16569200000t" region="region.after" style="defaultStyle" xml:id="subtitle430">And to you I will say</p>
+<p begin="16580000000t" end="16594800000t" region="region.after" style="defaultStyle" xml:id="subtitle431">this:</p>
+<p begin="16595600000t" end="16610800000t" region="region.after" style="defaultStyle" xml:id="subtitle432">Little strokes</p>
+<p begin="16624000000t" end="16648800000t" region="region.after" style="defaultStyle" xml:id="subtitle433">fell great oaks.</p>
+<p begin="16671200000t" end="16696000000t" region="region.after" style="defaultStyle" xml:id="subtitle434">That's it? Yeah?</p>
+<p begin="16696800000t" end="16728800000t" region="region.after" style="defaultStyle" xml:id="subtitle435">Actually, I didn't get it, really.</p>
+<p begin="16729600000t" end="16756800000t" region="region.after" style="defaultStyle" xml:id="subtitle436">What I mean to say, Arvid,</p>
+<p begin="16757600000t" end="16777200000t" region="region.after" style="defaultStyle" xml:id="subtitle437">is that you will regret</p>
+<p begin="16778000000t" end="16805600000t" region="region.after" style="defaultStyle" xml:id="subtitle438">challenging me to this <span style="defaultStyle_1">holmgang</span>.</p>
+<p begin="16806400000t" end="16838000000t" region="region.after" style="defaultStyle" xml:id="subtitle439">This is the dumbest thing<br/>you've ever done.</p>
+<p begin="16838800000t" end="16864800000t" region="region.after" style="defaultStyle" xml:id="subtitle440">Why do you say that? You have<br/>a secret weapon or something?</p>
+<p begin="16896400000t" end="16921600000t" region="region.after" style="defaultStyle" xml:id="subtitle441">This is the last thing<br/>I will say to you:</p>
+<p begin="16922400000t" end="16962800000t" region="region.after" style="defaultStyle" xml:id="subtitle442">The harder you come,<br/>the harder you... fall.</p>
+<p begin="16967600000t" end="16987200000t" region="region.after" style="defaultStyle" xml:id="subtitle443">-Harder you...?<br/>-Fall!</p>
+<p begin="16988000000t" end="17011200000t" region="region.after" style="defaultStyle" xml:id="subtitle444">OK, lots of fine words.</p>
+<p begin="17012000000t" end="17029600000t" region="region.after" style="defaultStyle" xml:id="subtitle445">Now, let's get ready!</p>
+<p begin="17150800000t" end="17171200000t" region="region.after" style="defaultStyle" xml:id="subtitle446">May the best man win.</p>
+<p begin="17186000000t" end="17202800000t" region="region.after" style="defaultStyle" xml:id="subtitle447">Three.</p>
+<p begin="17203600000t" end="17228000000t" region="region.after" style="defaultStyle" xml:id="subtitle448">Two. One.</p>
+<p begin="17228800000t" end="17245200000t" region="region.after" style="defaultStyle" xml:id="subtitle449"><span style="defaultStyle_1">Holmgang! </span></p>
+<p begin="17275600000t" end="17287200000t" region="region.after" style="defaultStyle" xml:id="subtitle450">Yes!</p>
+<p begin="17299200000t" end="17319200000t" region="region.after" style="defaultStyle" xml:id="subtitle451">Bull's-eye!</p>
+<p begin="17320000000t" end="17344800000t" region="region.after" style="defaultStyle" xml:id="subtitle452">Estate owner!<br/>Yeah!</p>
+<p begin="17345600000t" end="17362400000t" region="region.after" style="defaultStyle" xml:id="subtitle453">Awesome!</p>
+<p begin="17413600000t" end="17433600000t" region="region.after" style="defaultStyle" xml:id="subtitle454">It's you and me then.</p>
+<p begin="17442800000t" end="17459200000t" region="region.after" style="defaultStyle" xml:id="subtitle455">All right.</p>
+<p begin="17466400000t" end="17485600000t" region="region.after" style="defaultStyle" xml:id="subtitle456">Wow, you're so strong!</p>
+<p begin="17486400000t" end="17502800000t" region="region.after" style="defaultStyle" xml:id="subtitle457">You think?</p>
+<p begin="17521200000t" end="17538000000t" region="region.after" style="defaultStyle" xml:id="subtitle458">OK? Yes.</p>
+<p begin="17567600000t" end="17579600000t" region="region.after" style="defaultStyle" xml:id="subtitle459">Kiss me.</p>
+</div>
+</body>
+</tt>
