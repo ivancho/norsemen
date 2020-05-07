@@ -1,5 +1,15 @@
 #!/bin/bash
 
+# Create a separate chrome profile folder to force opening a new session
+TMP=/tmp/chrome2
+
+type -a rsync 1>/dev/null 2>1 && \
+    rsync -a --exclude=/Singleton* --exclude=/Session* ~/.config/google-chrome/ $TMP
+
+GORSEMEN_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
+
 "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" \
-    --load-extension=norsemen/chr \
-    https://tv.nrk.no/serie/vikingane/sesong/3/episode/1/avspiller
+    --load-extension=$GORSEMEN_DIR/chr \
+    --user-data-dir=$TMP \
+    https://tv.nrk.no/serie/vikingane/sesong/3/episode/1/avspiller \
+    2>/dev/null
