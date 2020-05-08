@@ -5,24 +5,17 @@
 
   "browser_action": {
     "default_icon": {
-      "128": "icons/on.png",
-      "48": "icons/on48.png"
+      "128": "icons/Frøya.png",
+      "48": "icons/Frøya48.png"
     },
     "default_title": "English"
   },
-  "permissions": ["webRequest", "webRequestBlocking",
+  "permissions": ["webRequest", "webRequestBlocking", "downloads", "storage", "webNavigation",
                   "https://undertekst.nrk.no/*", "https://tv.nrk.no/*" ],
   "background": {
     "scripts": ["background.js"]
   },
 
-  "web_accessible_resources": [
-    "subs/MUHH32000118.vtt",
-    "subs/MUHH32000218.vtt",
-    "subs/MUHH32000318.vtt",
-    "subs/MUHH32000418.vtt",
-    "subs/MUHH32000518.vtt",
-    "subs/MUHH32000618.vtt"
-  ],
+  "web_accessible_resources": [ "subs/*" ],
   "manifest_version": 2
 }
