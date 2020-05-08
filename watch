@@ -3,7 +3,7 @@
 # Create a separate chrome profile folder to force opening a new session
 TMP=/tmp/chrome2
 
-type -a rsync 1>/dev/null 2>1 && \
+type -a rsync 1>/dev/null 2>&1 && \
     rsync -a --exclude=/Singleton* --exclude=/Session* ~/.config/google-chrome/ $TMP
 
 GORSEMEN_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"

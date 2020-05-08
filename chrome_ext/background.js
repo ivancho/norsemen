@@ -70,10 +70,15 @@ chrome.browserAction.onClicked.addListener((tab) => {
 
 // Mark finished downloads
 chrome.downloads.onChanged.addListener((delta) => {
-  if (delta.state?.current == 'complete')
+  if (delta.state?.current == 'complete') {
     Downloads.delete(Id_To_Url[delta.id])
+    chrome.alarms.create({when: Date.now() + 2000})
+  }
 })
 
+chrome.alarms.onAlarm.addListener(function() {
+  chrome.tabs.reload()
+});
 
 // Intercept the subtitles requests, and let the active mode handle it.
 chrome.webRequest.onBeforeRequest.addListener(

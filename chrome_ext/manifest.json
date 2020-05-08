@@ -10,7 +10,7 @@
     },
     "default_title": "English"
   },
-  "permissions": ["webRequest", "webRequestBlocking", "downloads", "storage", "webNavigation",
+  "permissions": ["webRequest", "webRequestBlocking", "downloads", "storage", "webNavigation", "alarms",
                   "https://undertekst.nrk.no/*", "https://tv.nrk.no/*" ],
   "background": {
     "scripts": ["background.js"]

@@ -1,0 +1,17 @@
+#!/bin/bash
+
+DOWNLOADS="${HOME}/Downloads"
+GORSEMEN_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
+SUB_DIR="${GORSEMEN_DIR}/chrome_ext/subs/"
+
+python $GORSEMEN_DIR/proxy.py &
+
+fswatch -0 $DOWNLOADS | while read -d "" event; do
+    if [[ $event == *.vtt ]]; then
+        out="${SUB_DIR}/${event##*/}"
+        if [[ ! -e $out ]]; then
+            echo "$event -> $out"
+            python ${GORSEMEN_DIR}/translate.py <"$event" >"$out"
+        fi
+    fi
+done
