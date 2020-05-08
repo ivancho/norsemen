@@ -3,5 +3,7 @@
 ```
 git clone https://github.com/ivancho/norsemen.git
 
+# Quit Chrome if it's currently running
+
 norsemen/watch
 ```
