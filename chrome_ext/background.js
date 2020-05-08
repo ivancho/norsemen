@@ -1,16 +1,24 @@
 let MAIN_HOST = 'tv.nrk.no',
     SUBS_URLS = '*://undertekst.nrk.no/*.vtt'
 
+let Id_To_Url = {}
 let Downloads = new Set()
 
 let Mode = {
   Frøya: {
     title: 'Frøya: English subtitles',
     icon: 'icons/Frøya.png',
-    handle (req) {
-      let filename = 'subs/' + req.url.split(/(\\|\/)/g).pop()
-      return {redirectUrl: chrome.runtime.getURL(filename)}
-    }
+    handle (url) {
+      if (Downloads.has(url))
+        return // don't block Varg
+
+      let filename = 'subs/' + url.split(/(\\|\/)/g).pop()
+      let local = chrome.runtime.getURL(filename)
+
+      fetch(local).catch(() => Mode.Varg.handle(url))
+
+      return {redirectUrl: local}
+    },
   },
   Orm: {
     title: 'Orm: Norse subtitles',
@@ -20,10 +28,10 @@ let Mode = {
   Varg: {
     title: 'Varg: Norse subtitles, downloads them',
     icon: 'icons/Varg.png',
-    handle (req) {
-      if (!Downloads.has(req.url)) {
-        Downloads.add(req.url)
-        chrome.downloads.download({url: req.url})
+    handle (url) {
+      if (!Downloads.has(url)) {
+        Downloads.add(url)
+        chrome.downloads.download({url}, (id) => Id_To_Url[id] = url)
       }
     }
   }
@@ -62,16 +70,14 @@ chrome.browserAction.onClicked.addListener((tab) => {
 
 // Mark finished downloads
 chrome.downloads.onChanged.addListener((delta) => {
-  if (delta.state?.current != 'complete')
-    return
-
-  Downloads.remove(delta.url)
+  if (delta.state?.current == 'complete')
+    Downloads.delete(Id_To_Url[delta.id])
 })
 
 
 // Intercept the subtitles requests, and let the active mode handle it.
 chrome.webRequest.onBeforeRequest.addListener(
-  (req) => activeMode().handle(req),
+  (req) => activeMode().handle(req.url),
   {urls: [SUBS_URLS]},
   ['blocking']
 )
