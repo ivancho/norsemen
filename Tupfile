@@ -1,1 +1,3 @@
 : foreach season3/orig/* |> ./run translate <%f >%o |> chrome_ext/subs/%B.vtt
+: foreach season1/orig/MUHH33000*16.vtt |> ./run translate <%f >%o |> season1/s01e0%g.translate.vtt
+: foreach season2/orig/MUHH55000*17.vtt |> ./run translate <%f >%o |> season2/s02e0%g.translate.vtt
