@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# environment wrapper for subcommands
+
+CMD=$1
+shift
+
+if [[ -e $CMD ]]; then
+   ./$CMD "${@}"
+fi
+
+if [[ -e "${CMD}.py" ]]; then
+   . ${HOME}/.pyenv/versions/norsemen/bin/activate
+   python "${CMD}.py" "${@}"
+fi

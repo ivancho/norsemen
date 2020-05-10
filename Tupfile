@@ -1,0 +1,1 @@
+: foreach season3/orig/* |> ./run translate <%f >%o |> chrome_ext/subs/%B.vtt

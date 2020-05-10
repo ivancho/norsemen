@@ -30,7 +30,7 @@ TRANSLATE_PARAMS = {
     'js': (None, 'y'),
     'prev': (None, '_t'),
     'sl': (None, 'auto'),
-    'tl': (None, 'en'),
+    'tl': (None, os.environ.get('TRANSLATE_TO_LANG', 'en')),
 }
 
 

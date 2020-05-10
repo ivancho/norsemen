@@ -14,23 +14,41 @@ SERVICE_URL = 'http://localhost:5009/translate'
 # Translate sometimes decides names are typoed words and mis-translates them
 # We hide them as strings that it will not touch, and later replace back
 NAME_CODES = {
-    'Frøya': 'FFFFF',
-    'Orm': 'OOOOO',
+    'Frøya': 'Fabiana',
+    'Orm': 'Ognyan',
+    'Varg': 'Vancho',
 }
+
+RE_WORD_HYPHENATION = re.compile(r'(?<=\S)-\n(?=\S)')
+
+def update_text(caption, new_text, flag_name):
+    d = caption.__dict__.setdefault('preprocess', {})
+    if caption.text != new_text:
+        d[flag_name] = caption.text
+        caption.text = new_text
 
 
 def encode_names(captions, back=False):
     for caption in captions:
         for name, code in NAME_CODES.items():
             if back:
+                if 'person_name' not in caption.preprocess:
+                    continue # to avoid some weird materialization of characters
                 name, code = code, name
-            caption.text = re.sub(r'\b{}\b'.format(name), code, caption.text)
+            update_text(caption, re.sub(r'\b{}\b'.format(name), code, caption.text), 'person_name')
 
 
 def fix_hyphenation(captions):
-    '''Translate doesn't understand hyphenations across lines, so we join them'''
+    '''Translate doesn't understand hyphenations across lines, so we join them.'''
     for caption in captions:
-        caption.text = re.sub(r'(?<=\S)-\n(?=\S)', '', caption.text)
+        update_text(caption, re.sub(RE_WORD_HYPHENATION, '', caption.text), 'hyphenation')
+        update_text(caption, re.sub(r'^-(?=\S)', '- ', caption.text), 'leading_hyphen')
+
+
+def revert_hyphenation(captions):
+    for caption in captions:
+        if 'leading_hyphen' in caption.preprocess:
+            caption.text = re.sub('^- ', '-', caption.text)
 
 
 def translate_texts(captions):
@@ -54,19 +72,20 @@ def translate_captions_file(inbuf, outbuf):
     '''Translates captions from input buffer to output buffer'''
     captions = webvtt.read_buffer(inbuf)
 
+    # Preprocess
     encode_names(captions)
     fix_hyphenation(captions)
 
+    # Main
     translate_texts(captions)
 
+    # Postprocess
     encode_names(captions, back=True)
+    revert_hyphenation(captions)
 
     captions.write(outbuf)
 
 
 if __name__ == '__main__':
-    if sys.stdin.isatty(): # can pass 2 filenames on command line
-        with open(sys.argv[1]) as inbuf, open(sys.argv[2], 'w') as outbuf:
-            translate_captions_file(inbuf, outbuf)
-    else: # or pipe through
-        translate_captions_file(sys.stdin, sys.stdout)
+    # Handle filename stuff outside (e.g. translate.py <$in >$out)
+    translate_captions_file(sys.stdin, sys.stdout)

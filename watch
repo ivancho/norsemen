@@ -1,8 +1,8 @@
 #!/bin/bash
 
 GORSEMEN_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
+SEASON3_URL="https://tv.nrk.no/serie/vikingane/sesong/3/episode/1/avspiller"
 
-"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" \
+open -a "Google Chrome" --args \
     --load-extension=$GORSEMEN_DIR/chrome_ext \
-    https://tv.nrk.no/serie/vikingane/sesong/3/episode/1/avspiller \
-    2>/dev/null
+    $SEASON3_URL
