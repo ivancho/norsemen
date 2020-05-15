@@ -21,7 +21,7 @@ let Mode = {
       // This is async, so it won't finish before we do the redirect below,
       // but we'll reload the page after the download is done,
       // and should have a translation ready.
-      fetch(local).catch(() => Varg.handle(url))
+      fetch(local).catch(() => Mode.Varg.handle(url))
 
       return {redirectUrl: local}
     }
