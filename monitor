@@ -3,6 +3,8 @@
 DOWNLOADS="${HOME}/Downloads"
 GORSEMEN_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 SUB_DIR="${GORSEMEN_DIR}/chrome_ext/subs/"
+TRANS_DIR="${SUB_DIR}/en/"
+ORIG_DIR="${SUB_DIR}/no/"
 
 cd $GORSEMEN_DIR
 
@@ -12,10 +14,12 @@ trap "trap - SIGTERM && kill -- -$$" SIGINT SIGTERM EXIT
 
 fswatch -0 $DOWNLOADS | while read -d "" event; do
     if [[ $event == *.vtt ]]; then
-        out="${SUB_DIR}/${event##*/}"
+        out="${TRANS_DIR}/${event##*/}"
+        bkp="${ORIG_DIR}/${event##*/}"
         if [[ ! -e $out ]]; then
             echo "$event -> $out"
             ./run translate <"$event" >"$out"
+            cp "$event" "$bkp"
         fi
     fi
 done

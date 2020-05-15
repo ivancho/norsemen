@@ -1,3 +1,12 @@
-: foreach season3/orig/* |> ./run translate <%f >%o |> chrome_ext/subs/%B.vtt
+: foreach season3/orig/* |> ./run translate <%f >%o |> chrome_ext/subs/en/%B.vtt
+: foreach season3/orig/* |> ./run translate --method concat <%f >%o |> chrome_ext/subs/no+en/%B.vtt
+: foreach season3/orig/* |> cp %f %o |> chrome_ext/subs/no/%B.vtt
 : foreach season1/orig/MUHH33000*16.vtt |> ./run translate <%f >%o |> season1/s01e0%g.translate.vtt
 : foreach season2/orig/MUHH55000*17.vtt |> ./run translate <%f >%o |> season2/s02e0%g.translate.vtt
+: foreach season3/orig/MUHH32000*18.vtt |> ./run translate <%f >%o |> season3/s03e0%g.translate.vtt
+: season3/s03e01.translate.vtt |> cp %f "%o" |> "dist/dropbox/s03e01 - Høl i hatten.vtt"
+: season3/s03e02.translate.vtt |> cp %f "%o" |> "dist/dropbox/s03e02 - Utdrikningslag.vtt"
+: season3/s03e03.translate.vtt |> cp %f "%o" |> "dist/dropbox/s03e03 - Bryllup og blot.vtt"
+: season3/s03e04.translate.vtt |> cp %f "%o" |> "dist/dropbox/s03e04 - Krigsbord.vtt"
+: season3/s03e05.translate.vtt |> cp %f "%o" |> "dist/dropbox/s03e05 - Tror du på drager.vtt"
+: season3/s03e06.translate.vtt |> cp %f "%o" |> "dist/dropbox/s03e06 - Pisk på pung.vtt"

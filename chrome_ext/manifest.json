@@ -11,7 +11,9 @@
     "default_title": "English"
   },
   "permissions": ["webRequest", "webRequestBlocking", "downloads", "storage", "webNavigation", "alarms",
-                  "https://undertekst.nrk.no/*", "https://tv.nrk.no/*" ],
+                  "https://undertekst.nrk.no/*", "https://tv.nrk.no/*",
+                  "https://netflix.com/*", "https://*.nflxvideo.net/*"
+                 ],
   "background": {
     "scripts": ["background.js"]
   },

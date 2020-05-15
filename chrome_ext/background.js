@@ -4,27 +4,41 @@ let MAIN_HOST = 'tv.nrk.no',
 let Id_To_Url = {}
 let Downloads = new Set()
 
+let targetLang = 'en'
+
 let Mode = {
   Frøya: {
     title: 'Frøya: English subtitles',
     icon: 'icons/Frøya.png',
+    lang: 'en',
     handle (url) {
       if (Downloads.has(url))
         return // don't block Varg
 
-      let filename = 'subs/' + url.split(/(\\|\/)/g).pop()
+      let filename = 'subs/' + activeMode().lang + '/' + url.split(/(\\|\/)/g).pop()
       let local = chrome.runtime.getURL(filename)
 
-      fetch(local).catch(() => Mode.Varg.handle(url))
+      // This is async, so it won't finish before we do the redirect below,
+      // but we'll reload the page after the download is done,
+      // and should have a translation ready.
+      fetch(local).catch(() => Varg.handle(url))
 
       return {redirectUrl: local}
-    },
+    }
   },
+
+  Arvid: {
+    title: 'Arvid: no+en',
+    lang: 'no+en',
+    icon: 'icons/Arvid.png',
+    handle (url) { return Mode.Frøya.handle(url) }
+  },
+
   Orm: {
     title: 'Orm: Norse subtitles',
-    icon: 'icons/Orm.png',
-    handle () {}
+    icon: 'icons/Orm.png'
   },
+
   Varg: {
     title: 'Varg: Norse subtitles, downloads them',
     icon: 'icons/Varg.png',
@@ -37,8 +51,7 @@ let Mode = {
   }
 }
 
-
-let State = {'Mode': Object.keys(Mode)}
+let State = { 'Mode': Object.keys(Mode) }
 let activeMode = () => Mode[State.Mode[0]]
 let rotateMode = () => State.Mode.push(State.Mode.shift())
 

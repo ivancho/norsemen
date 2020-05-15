@@ -17,6 +17,7 @@ NAME_CODES = {
     'Frøya': 'Fabiana',
     'Orm': 'Ognyan',
     'Varg': 'Vancho',
+    'Liv': 'Linda',
 }
 
 RE_WORD_HYPHENATION = re.compile(r'(?<=\S)-\n(?=\S)')
@@ -51,7 +52,7 @@ def revert_hyphenation(captions):
             caption.text = re.sub('^- ', '-', caption.text)
 
 
-def translate_texts(captions):
+def translate_texts(captions, method='inplace'):
     '''Translate in-place the caption texts using service'''
     # To send all captions in one batch text,
     # we join them with a recognizable separator.
@@ -65,10 +66,15 @@ def translate_texts(captions):
     translated = resp.content.decode('utf-8').split(sep)
 
     for c, t in zip(captions, translated):
-        c.text = t
+        if method == 'inplace':
+            c.text = t
+        elif method == 'concat':
+            c.text = '{}\n---\n{}'.format(c.text, t)
+        else:
+            raise Exception('Unsupported translation method {}'.format(method))
 
 
-def translate_captions_file(inbuf, outbuf):
+def translate_captions_file(inbuf, outbuf, method='inplace'):
     '''Translates captions from input buffer to output buffer'''
     captions = webvtt.read_buffer(inbuf)
 
@@ -77,7 +83,7 @@ def translate_captions_file(inbuf, outbuf):
     fix_hyphenation(captions)
 
     # Main
-    translate_texts(captions)
+    translate_texts(captions, method)
 
     # Postprocess
     encode_names(captions, back=True)
@@ -87,5 +93,10 @@ def translate_captions_file(inbuf, outbuf):
 
 
 if __name__ == '__main__':
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--method', default='inplace')
+    args = parser.parse_args()
+
     # Handle filename stuff outside (e.g. translate.py <$in >$out)
-    translate_captions_file(sys.stdin, sys.stdout)
+    translate_captions_file(sys.stdin, sys.stdout, args.method)
