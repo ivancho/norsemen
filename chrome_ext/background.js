@@ -63,11 +63,21 @@ let setIcon = (tabId) => {
   chrome.browserAction.setTitle({title: m.title, tabId})
 }
 
+let eq = (arr1, arr2) => {
+  let diff = new Set(arr1)
+  for (let a2 of arr2) {
+    if (! diff.has(a2))
+      return false
+    diff.delete(a2)
+  }
+  return diff.size == 0
+}
 
 // Load saved mode
 chrome.webNavigation.onCompleted.addListener((tab) => {
   chrome.storage.local.get(State, (item) => {
-    State = item
+    if (eq(Object.keys(State), Object.keys(item)) && eq (State.Mode, item.Mode))
+      State = item
     setIcon(tab.id)
   })
 }, {url: [{hostEquals : MAIN_HOST}]})
