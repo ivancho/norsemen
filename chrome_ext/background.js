@@ -100,7 +100,7 @@ chrome.downloads.onChanged.addListener((delta) => {
 })
 
 chrome.alarms.onAlarm.addListener(function() {
-  chrome.tabs.reload()
+  //chrome.tabs.reload()
 });
 
 // Intercept the subtitles requests, and let the active mode handle it.
